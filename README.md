@@ -1,6 +1,6 @@
 # _________
-This is only some of what will be used to create the new social media globel platform that every country is obligated to use or simply be left behind. 
-I have solid base idea of what out of all this will be implemented along with core purpose that can be discused after the NDA consignment. This README.md took 5 minutes to create so.  
+This is only some of what will be used to create a new social media globel platform that every country is obligated to use or simply be left behind. 
+I have solid base idea of what out of all this will be implemented along with core purpose that can be discused after the NDA consignment. This README.md took 5 minutes to create so. This platform will be based on sercurity that will that wil have direct ties with the industrial complexes around the world. Be foolish for anyone to turn away from a public world governing platform like this.  
 
 Understanding the $2.5 Million Valuation
 A $2.5 million pre-deployment valuation implies a platform with:
